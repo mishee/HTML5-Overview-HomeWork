@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\bin\HTML5OverviewHW.dll.config
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\bin\HTML5OverviewHW.dll
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\bin\HTML5OverviewHW.pdb
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\obj\Debug\HTML5OverviewHW.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\obj\Debug\HTML5OverviewHW.dll
+C:\Users\Dell\Documents\IISExpress\Logs\HTML5OverviewHW\HTML5OverviewHW\HTML5OverviewHW\obj\Debug\HTML5OverviewHW.pdb
